@@ -1,0 +1,27 @@
+[27-Jun-2014 15:02:54 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 9
+[27-Jun-2014 15:03:25 Africa/Johannesburg] PHP Warning:  file_get_contents(www.saweb.co.za/lotto.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1081
+[27-Jun-2014 15:03:25 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1113
+[27-Jun-2014 15:03:49 Africa/Johannesburg] PHP Warning:  file_get_contents(www.saweb.co.za/lotto.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1081
+[27-Jun-2014 15:03:49 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1113
+[27-Jun-2014 15:04:14 Africa/Johannesburg] PHP Warning:  file_get_contents(www.saweb.co.za/lotto.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1081
+[27-Jun-2014 15:04:14 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1113
+[20-Jul-2014 19:38:00 Africa/Johannesburg] PHP Warning:  file_get_contents(www.saweb.co.za/lotto.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1081
+[20-Jul-2014 19:38:00 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/simple_html_dom.php on line 1113
+[20-Jul-2014 19:50:41 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected T_ECHO in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 14
+[20-Jul-2014 19:51:26 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 10
+[20-Jul-2014 19:52:19 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 10
+[20-Jul-2014 19:52:32 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 10
+[20-Jul-2014 19:53:53 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 10
+[20-Jul-2014 19:53:56 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 10
+[20-Jul-2014 19:56:21 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 10
+[20-Jul-2014 19:56:25 Africa/Johannesburg] PHP Fatal error:  Call to a member function find() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 10
+[20-Jul-2014 20:32:28 Africa/Johannesburg] PHP Fatal error:  Call to a member function str_replace() on a non-object in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 21
+[20-Jul-2014 20:34:40 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '<' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 20
+[20-Jul-2014 20:35:18 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '.' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 20
+[20-Jul-2014 20:45:59 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 21
+[20-Jul-2014 20:50:49 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 24
+[20-Jul-2014 21:04:10 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 23
+[20-Jul-2014 21:04:45 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 23
+[20-Jul-2014 21:06:03 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 24
+[20-Jul-2014 21:22:33 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected ';' in /home/bluefrbm/public_html/content_processing/lotto/lotto.php on line 60
+[20-Jul-2014 21:35:57 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING in /home/bluefrbm/public_html/content_processing/lotto/powerball.php on line 47
